@@ -1,0 +1,130 @@
+0	{'bus': 2, 'flight': 86, 'tree': 3, 'cake': 2, 'train': 37, 'library': 4, 'bicycle': 8, 'grocery': 11, 'bath': 3, 'haircut': 11}
+1	{'bus': 20, 'flight': 0, 'tree': 32, 'cake': 1, 'train': 8, 'library': 89, 'bicycle': 12, 'grocery': 15, 'bath': 11, 'haircut': 16}
+2	{'bus': 0, 'flight': 0, 'tree': 56, 'cake': 1, 'train': 5, 'library': 0, 'bicycle': 2, 'grocery': 1, 'bath': 6, 'haircut': 23}
+3	{'bus': 13, 'flight': 0, 'tree': 0, 'cake': 12, 'train': 0, 'library': 0, 'bicycle': 3, 'grocery': 68, 'bath': 5, 'haircut': 7}
+4	{'bus': 0, 'flight': 0, 'tree': 0, 'cake': 10, 'train': 0, 'library': 0, 'bicycle': 5, 'grocery': 0, 'bath': 24, 'haircut': 31}
+5	{'bus': 2, 'flight': 0, 'tree': 0, 'cake': 4, 'train': 0, 'library': 0, 'bicycle': 8, 'grocery': 0, 'bath': 45, 'haircut': 0}
+6	{'bus': 17, 'flight': 0, 'tree': 0, 'cake': 7, 'train': 1, 'library': 0, 'bicycle': 49, 'grocery': 0, 'bath': 0, 'haircut': 0}
+7	{'bus': 1, 'flight': 0, 'tree': 0, 'cake': 60, 'train': 4, 'library': 0, 'bicycle': 0, 'grocery': 0, 'bath': 0, 'haircut': 0}
+8	{'bus': 1, 'flight': 0, 'tree': 0, 'cake': 0, 'train': 15, 'library': 0, 'bicycle': 0, 'grocery': 0, 'bath': 0, 'haircut': 0}
+9	{'bus': 36, 'flight': 0, 'tree': 0, 'cake': 0, 'train': 17, 'library': 0, 'bicycle': 0, 'grocery': 0, 'bath': 0, 'haircut': 0}
+(0, '0.034*"plane" + 0.025*"flight" + 0.016*"seat" + 0.015*"airport" + 0.013*"ticket" + 0.012*"went" + 0.010*"got" + 0.010*"airplane" + 0.009*"bag" + 0.008*"hour" + 0.008*"time" + 0.008*"took" + 0.008*"security" + 0.008*"attendant" + 0.008*"get"')
+(1, '0.083*"book" + 0.043*"library" + 0.017*"card" + 0.014*"read" + 0.013*"went" + 0.011*"librarian" + 0.010*"one" + 0.010*"found" + 0.010*"back" + 0.009*"find" + 0.009*"check" + 0.008*"wanted" + 0.008*"took" + 0.008*"would" + 0.007*"home"')
+(2, '0.089*"tree" + 0.030*"hole" + 0.020*"plant" + 0.015*"would" + 0.014*"dirt" + 0.012*"root" + 0.009*"dug" + 0.009*"soil" + 0.009*"water" + 0.009*"shovel" + 0.008*"decided" + 0.008*"around" + 0.008*"grow" + 0.008*"back" + 0.008*"yard"')
+(3, '0.028*"grocery" + 0.025*"store" + 0.021*"item" + 0.020*"cart" + 0.020*"shopping" + 0.019*"list" + 0.013*"went" + 0.012*"put" + 0.011*"bag" + 0.011*"got" + 0.011*"food" + 0.010*"get" + 0.010*"go" + 0.010*"car" + 0.010*"needed"')
+(4, '0.071*"hair" + 0.029*"cut" + 0.016*"get" + 0.015*"haircut" + 0.014*"chair" + 0.011*"back" + 0.010*"salon" + 0.009*"went" + 0.009*"barber" + 0.009*"wanted" + 0.009*"told" + 0.009*"appointment" + 0.009*"time" + 0.008*"like" + 0.008*"stylist"')
+(5, '0.053*"water" + 0.039*"bath" + 0.037*"tub" + 0.015*"get" + 0.015*"hot" + 0.013*"put" + 0.012*"towel" + 0.012*"bubble" + 0.011*"drain" + 0.011*"take" + 0.011*"got" + 0.010*"warm" + 0.010*"body" + 0.010*"soap" + 0.010*"clean"')
+(6, '0.060*"tire" + 0.028*"bike" + 0.020*"tube" + 0.018*"air" + 0.014*"back" + 0.013*"flat" + 0.012*"put" + 0.011*"bicycle" + 0.010*"hole" + 0.009*"pump" + 0.009*"took" + 0.009*"patch" + 0.009*"would" + 0.008*"ride" + 0.007*"got"')
+(7, '0.062*"cake" + 0.019*"oven" + 0.017*"pan" + 0.016*"ingredient" + 0.013*"put" + 0.011*"baking" + 0.011*"bowl" + 0.010*"mix" + 0.010*"egg" + 0.009*"bake" + 0.009*"make" + 0.009*"batter" + 0.008*"frosting" + 0.007*"recipe" + 0.007*"chocolate"')
+(8, '0.045*"train" + 0.020*"ticket" + 0.018*"station" + 0.014*"time" + 0.012*"went" + 0.008*"trip" + 0.008*"car" + 0.007*"arrived" + 0.007*"would" + 0.006*"took" + 0.006*"day" + 0.006*"chicago" + 0.006*"next" + 0.005*"bought" + 0.005*"u"')
+(9, '0.059*"bus" + 0.038*"train" + 0.022*"stop" + 0.014*"got" + 0.014*"get" + 0.014*"seat" + 0.011*"ticket" + 0.010*"ride" + 0.010*"take" + 0.009*"station" + 0.009*"time" + 0.009*"driver" + 0.008*"people" + 0.008*"would" + 0.007*"minute"')
+0
+bath	0.031914893617021274
+bicycle	0.09195402298850575
+bus	0.021739130434782608
+cake	0.020618556701030927
+flight	1.0
+grocery	0.11578947368421053
+haircut	0.125
+library	0.043010752688172046
+train	0.42528735632183906
+tree	0.03296703296703297
+1
+bath	0.11702127659574468
+bicycle	0.13793103448275862
+bus	0.21739130434782608
+cake	0.010309278350515464
+flight	0.0
+grocery	0.15789473684210525
+haircut	0.18181818181818182
+library	0.956989247311828
+train	0.09195402298850575
+tree	0.3516483516483517
+2
+bath	0.06382978723404255
+bicycle	0.022988505747126436
+bus	0.0
+cake	0.010309278350515464
+flight	0.0
+grocery	0.010526315789473684
+haircut	0.26136363636363635
+library	0.0
+train	0.05747126436781609
+tree	0.6153846153846154
+3
+bath	0.05319148936170213
+bicycle	0.034482758620689655
+bus	0.14130434782608695
+cake	0.12371134020618557
+flight	0.0
+grocery	0.7157894736842105
+haircut	0.07954545454545454
+library	0.0
+train	0.0
+tree	0.0
+4
+bath	0.2553191489361702
+bicycle	0.05747126436781609
+bus	0.0
+cake	0.10309278350515463
+flight	0.0
+grocery	0.0
+haircut	0.3522727272727273
+library	0.0
+train	0.0
+tree	0.0
+5
+bath	0.4787234042553192
+bicycle	0.09195402298850575
+bus	0.021739130434782608
+cake	0.041237113402061855
+flight	0.0
+grocery	0.0
+haircut	0.0
+library	0.0
+train	0.0
+tree	0.0
+6
+bath	0.0
+bicycle	0.5632183908045977
+bus	0.18478260869565216
+cake	0.07216494845360824
+flight	0.0
+grocery	0.0
+haircut	0.0
+library	0.0
+train	0.011494252873563218
+tree	0.0
+7
+bath	0.0
+bicycle	0.0
+bus	0.010869565217391304
+cake	0.6185567010309279
+flight	0.0
+grocery	0.0
+haircut	0.0
+library	0.0
+train	0.04597701149425287
+tree	0.0
+8
+bath	0.0
+bicycle	0.0
+bus	0.010869565217391304
+cake	0.0
+flight	0.0
+grocery	0.0
+haircut	0.0
+library	0.0
+train	0.1724137931034483
+tree	0.0
+9
+bath	0.0
+bicycle	0.0
+bus	0.391304347826087
+cake	0.0
+flight	0.0
+grocery	0.0
+haircut	0.0
+library	0.0
+train	0.19540229885057472
+tree	0.0

@@ -1,0 +1,33 @@
+0['UnrelEv', 'Evoking', 'ScrPart_decoration']
+1['UnrelEv', 'ScrPart_ingredients', 'NPart']
+2['ScrPart_ingredients', 'UnrelEv', 'ScrPart_utensil']
+3['UnrelEv', 'NPart', 'ScrPart_ingredients']
+4['ScrPart_ingredients', 'UnrelEv', 'ScrEv_make_dough']
+5['NPart', 'UnrelEv', 'ScrPart_ingredients']
+6['UnrelEv', 'NPart', 'ScrPart_cake']
+7['ScrPart_utensil', 'UnrelEv', 'ScrPart_ingredients']
+8['UnrelEv', 'NPart', 'ScrPart_beneficiary']
+9['UnrelEv', 'ScrPart_ingredients', 'ScrPart_utensil']
+10['NPart', 'UnrelEv', 'ScrPart_ingredients']
+11['ScrEv_preheat', 'ScrPart_temperature', 'ScrPart_time']
+12['UnrelEv', 'ScrPart_utensil', 'ScrPart_ingredients']
+13['UnrelEv', 'ScrPart_ingredients', 'NPart']
+14['NPart', 'UnrelEv', 'ScrEv_take_out_oven']
+15['ScrPart_ingredients', 'ScrPart_utensil', 'ScrEv_preheat']
+16['ScrPart_ingredients', 'ScrPart_cake', 'ScrEv_grease_cake_tin']
+17['UnrelEv', 'ScrEv_pour_dough', 'ScrPart_dough']
+18['ScrPart_ingredients', 'UnrelEv', 'NPart']
+19['UnrelEv', 'ScrPart_utensil', 'ScrEv_take_out_oven']
+20['UnrelEv', 'NPart', 'ScrPart_cake']
+21['UnrelEv', 'No_label', 'ScrPart_ingredients']
+22['UnrelEv', 'ScrEv_preheat', 'ScrPart_baking_instructions']
+23['UnrelEv', 'ScrPart_ingredients', 'Evoking']
+24['UnrelEv', 'ScrPart_ingredients', 'NPart']
+25['UnrelEv', 'ScrPart_ingredients', 'NPart']
+26['UnrelEv', 'ScrPart_ingredients', 'ScrPart_cake']
+0
+{'ScrPart_utensil': 1, 'NPart': 3, 'ScrPart_ingredients': 5, 'UnrelEv': 17, 'ScrEv_preheat': 1}
+1
+{'Evoking': 1, 'ScrPart_ingredients': 7, 'ScrPart_utensil': 3, 'NPart': 4, 'UnrelEv': 7, 'ScrPart_cake': 1, 'ScrPart_temperature': 1, 'No_label': 1, 'ScrEv_preheat': 1, 'ScrEv_pour_dough': 1}
+2
+{'Evoking': 1, 'ScrPart_utensil': 2, 'ScrEv_preheat': 1, 'ScrPart_decoration': 1, 'ScrPart_cake': 3, 'ScrEv_take_out_oven': 2, 'ScrPart_ingredients': 6, 'ScrPart_baking_instructions': 1, 'ScrPart_dough': 1, 'ScrPart_beneficiary': 1, 'NPart': 5, 'ScrEv_make_dough': 1, 'ScrPart_time': 1, 'ScrEv_grease_cake_tin': 1}
